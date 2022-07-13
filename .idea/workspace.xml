@@ -5,14 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="3c7f28f9-89be-448b-8d36-e42772c8abd1" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/.env" beforeDir="false" afterPath="$PROJECT_DIR$/.env" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/handler/__init__.py" beforeDir="false" afterPath="$PROJECT_DIR$/handler/__init__.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/handler/handlers.py" beforeDir="false" afterPath="$PROJECT_DIR$/handler/handlers.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/keyboard/__init__.py" beforeDir="false" afterPath="$PROJECT_DIR$/keyboard/__init__.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/keyboard/keyboards.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/main.py" beforeDir="false" afterPath="$PROJECT_DIR$/main.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -206,7 +199,7 @@
       <workItem from="1657656597078" duration="932000" />
       <workItem from="1657728112595" duration="8000" />
       <workItem from="1657735356667" duration="1633000" />
-      <workItem from="1657737040785" duration="3287000" />
+      <workItem from="1657737040785" duration="3851000" />
     </task>
     <servers />
   </component>
