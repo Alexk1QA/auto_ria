@@ -1,6 +1,5 @@
 from aiogram.types import KeyboardButton, ReplyKeyboardMarkup
 
-
 button_2_Param = KeyboardButton("2 параметра")
 button_5_Param = KeyboardButton("5 параметров")
 

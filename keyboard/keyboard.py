@@ -13,4 +13,3 @@ button_new = KeyboardButton("Новые")
 button_BU = KeyboardButton("Б/У")
 
 keyboard_NewOrBU = ReplyKeyboardMarkup(resize_keyboard=True).add(button_new, button_BU)
-

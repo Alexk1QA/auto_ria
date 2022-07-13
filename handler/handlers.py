@@ -47,15 +47,3 @@ def register_handler_command(dp: Dispatcher):
     dp.register_message_handler(chose_new_bu, Text(equals="Все понятно, можно начинать"))
     dp.register_message_handler(info, Text(equals="Детальное описание работы с ботом"))
     dp.register_message_handler(chose_new_bu, Text(equals="Продолжить"))
-
-    # dp.register_message_handler(start_new, Text(equals="Новые"))
-    # dp.register_message_handler(chose_param, Text(equals="Б/У"))
-    #
-    # dp.register_message_handler(category, state=QuestionParams.question_category)
-    # dp.register_message_handler(marka, state=QuestionParams.question_marka)
-    # dp.register_message_handler(model, state=QuestionParams.question_model)
-    # dp.register_message_handler(from_year, state=QuestionParams.question_from_year)
-    # dp.register_message_handler(to_year, state=QuestionParams.question_to_year)
-    # dp.register_message_handler(from_price, state=QuestionParams.question_from_price)
-    # dp.register_message_handler(to_price, state=QuestionParams.question_to_price)
-    # dp.register_message_handler(ended, state=QuestionParams.question_ended)
