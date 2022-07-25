@@ -1,13 +1,8 @@
 from aiogram.types import KeyboardButton, ReplyKeyboardMarkup
 
-button_accept = KeyboardButton("Все понятно, можно начинать")
-button_info = KeyboardButton("Детальное описание работы с ботом")
+button_Back_Menu = KeyboardButton("Главное меню")
 
-keyboard_start = ReplyKeyboardMarkup(resize_keyboard=True).add(button_accept, button_info)
-
-button_continued = KeyboardButton("Продолжить")
-
-keyboard_button_continued = ReplyKeyboardMarkup(resize_keyboard=True).add(button_continued)
+keyboard_Back_Menu = ReplyKeyboardMarkup(resize_keyboard=True).add(button_Back_Menu)
 
 button_new = KeyboardButton("Новые")
 button_BU = KeyboardButton("Б/У")
