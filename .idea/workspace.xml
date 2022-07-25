@@ -4,7 +4,15 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="3c7f28f9-89be-448b-8d36-e42772c8abd1" name="Changes" comment="" />
+    <list default="true" id="3c7f28f9-89be-448b-8d36-e42772c8abd1" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/func_handler/func_bu.py" beforeDir="false" afterPath="$PROJECT_DIR$/func_handler/func_bu.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/handler/handlers_bu.py" beforeDir="false" afterPath="$PROJECT_DIR$/handler/handlers_bu.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/handler/handlers_bu_inline.py" beforeDir="false" afterPath="$PROJECT_DIR$/handler/handlers_bu_inline.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/keyboard/keyboard_bu.py" beforeDir="false" afterPath="$PROJECT_DIR$/keyboard/keyboard_bu.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/keyboard/keyboard_bu_inline.py" beforeDir="false" afterPath="$PROJECT_DIR$/keyboard/keyboard_bu_inline.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/message/message_handlers.py" beforeDir="false" afterPath="$PROJECT_DIR$/message/message_handlers.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/state/states.py" beforeDir="false" afterPath="$PROJECT_DIR$/state/states.py" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -204,7 +212,7 @@
       <workItem from="1658270968605" duration="11446000" />
       <workItem from="1658395278100" duration="13985000" />
       <workItem from="1658587545454" duration="2490000" />
-      <workItem from="1658598725707" duration="63754000" />
+      <workItem from="1658598725707" duration="64109000" />
     </task>
     <servers />
   </component>
